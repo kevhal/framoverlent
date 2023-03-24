@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nivo/bar": "^0.55.0",
-    "@nivo/core": "^0.55.0",
+    "@nivo/bar": "^0.80.0",
+    "@nivo/core": "^0.80.0",
     "@types/node": "18.15.7",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
